@@ -3,19 +3,27 @@
 
 <div>
 
+<p align="center">
+<img src="assets/profile1.jpeg" width="220">
+</p>
 
-<br><br>
+<h1 align="center">Hi, I'm <b>Sravya Lakshmi Tulasi</b> 👋</h1>
 
-<img align="left" src="assets/profile1.jpeg" width="220" alt="Sravya Lakshmi Tulasi"/>
+<h3 align="center">
+Electronics & Communication Engineering Student
+</h3>
 
-<h1>Hi, I'm <b>Sravya Lakshmi Tulasi</b> 👋</h1>
+<p align="center">
+<b>VLSI • RTL Design • FPGA • Machine Learning • Edge AI</b>
+</p>
 
-<h3>Electronics & Communication Engineering Student</h3>
+<p align="center">
 
-<h3>VLSI • RTL Design • FPGA • Machine Learning • Edge AI</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00B4FF&center=true&vCenter=true&width=650&lines=Aspiring+VLSI+Engineer;Machine+Learning+%26+Edge+AI+Enthusiast;RTL+Design+%7C+FPGA+Development;Researcher+%7C+Innovation+Driven"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00B4FF&width=520&lines=Aspiring+VLSI+Engineer;Machine+Learning+%26+Edge+AI+Enthusiast;RTL+Design+%7C+FPGA+Development;Researcher+%7C+Innovation+Driven"/>
+</p>
 
+<p align="center">
 
 <a href="https://www.linkedin.com/in/sravya-valluri">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -32,6 +40,10 @@
 <a href="https://drive.google.com/drive/folders/1bH-3L784b-ilKOLMs62UhZ50Z42PtMJR?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
+
+</p>
+
+---
 
 </div>
 
