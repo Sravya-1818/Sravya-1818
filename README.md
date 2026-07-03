@@ -1,4 +1,10 @@
+
+
+
 <div>
+
+
+<br><br>
 
 <img align="left" src="assets/profile1.jpeg" width="220" alt="Sravya Lakshmi Tulasi"/>
 
@@ -33,9 +39,7 @@
 <br clear="left">
 
 ---
----
 
----
 
 # 👩‍💻 Engineering Profile
 
@@ -178,17 +182,6 @@ Worked on FPGA acceleration, Edge AI applications, Raspberry Pi, Jetson Nano, PY
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sravya-1818&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravya-1818&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
 
 # 📄 Resume
 
