@@ -1,21 +1,14 @@
-<table>
-<tr>
+<div>
 
-<td width="30%" align="center">
+<img align="left" src="assets/profile1.jpeg" width="220" alt="Sravya Lakshmi Tulasi"/>
 
-<img src="assets/profile1.jpeg" width="220" alt="Sravya Lakshmi Tulasi">
+<h1>Hi, I'm <b>Sravya Lakshmi Tulasi</b> 👋</h1>
 
-</td>
+<h3>Electronics & Communication Engineering Student</h3>
 
-<td width="70%" valign="middle">
+<h3>VLSI • RTL Design • FPGA • Machine Learning • Edge AI</h3>
 
-# Hi, I'm **Sravya Lakshmi Tulasi** 👋
-
-### Electronics & Communication Engineering Student
-
-### **VLSI • RTL Design • FPGA • Machine Learning • Edge AI**
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00B4FF&width=500&lines=Aspiring+VLSI+Engineer;Machine+Learning+%26+Edge+AI+Enthusiast;RTL+Design+%7C+FPGA+Development;Researcher+%7C+Innovation+Driven"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00B4FF&width=520&lines=Aspiring+VLSI+Engineer;Machine+Learning+%26+Edge+AI+Enthusiast;RTL+Design+%7C+FPGA+Development;Researcher+%7C+Innovation+Driven"/>
 
 <br><br>
 
@@ -35,11 +28,11 @@
 <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
-</td>
+</div>
 
-</tr>
-</table>
+<br clear="left">
 
+---
 ---
 
 ---
