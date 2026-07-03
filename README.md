@@ -125,19 +125,7 @@ Electronics & Communication Engineering
 
 ---
 
-# 💡 Engineering Philosophy
 
-> *"Innovation begins where curiosity meets implementation. Every project is an opportunity to learn, build, and create technology that makes an impact."*
-
----
-
-<div align="center">
-
-### Thanks for visiting my GitHub Profile!
-
-⭐ Explore my repositories to see my projects, research, and engineering journey.
-
-</div>
 ---
 
 # 🛠 Technical Expertise
@@ -206,7 +194,7 @@ Electronics & Communication Engineering
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=linux,windows"/>
 
 </p>
 
@@ -415,26 +403,7 @@ Interactive Learning
 
 ---
 
-# 💻 Current Engineering Focus
 
-```text
-RTL Design
-████████████████████░░░ 90%
-
-FPGA Development
-███████████████████░░░░ 85%
-
-Embedded Systems
-██████████████████░░░░░ 80%
-
-Edge AI
-█████████████████░░░░░░ 78%
-
-Physical Design
-██████████████░░░░░░░░░ 65%
-```
-
----
 
 <div align="center">
 
@@ -511,7 +480,6 @@ Focus
 
 | Innovation Area | Status |
 |-----------------|--------|
-| 🤖 Edge AI | Published |
 | 🚗 Smart Mobility | Published |
 | 🌊 Urban Flood Monitoring | Published |
 | 📶 Wi-Fi Sensing | Published |
@@ -675,23 +643,7 @@ Member
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sravya-1818&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravya-1818&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sravya-1818&theme=github-dark&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravya-1818&theme=github-dark"/>
-
-</div>
 
 ---
 
