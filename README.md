@@ -1,8 +1,13 @@
+<table>
+<tr>
 
-<div align="center">
+<td width="30%" align="center">
 
+<img src="assets/profile1.jpeg" width="220" alt="Sravya Lakshmi Tulasi">
 
-<img src="assets/profile1.jpeg" width="180" alt="Sravya Lakshmi Tulasi"/>
+</td>
+
+<td width="70%" valign="middle">
 
 # Hi, I'm **Sravya Lakshmi Tulasi** 👋
 
@@ -10,22 +15,32 @@
 
 ### **VLSI • RTL Design • FPGA • Machine Learning • Edge AI**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00B4FF&center=true&vCenter=true&width=850&lines=Aspiring+VLSI+Engineer;Machine+Learning+%26+Edge+AI+Enthusiast;RTL+Design+%7C+FPGA+Development;Researcher+%7C+Innovation+Driven"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00B4FF&width=500&lines=Aspiring+VLSI+Engineer;Machine+Learning+%26+Edge+AI+Enthusiast;RTL+Design+%7C+FPGA+Development;Researcher+%7C+Innovation+Driven"/>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/sravya-valluri">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:sravyalakshmitulasivalluri@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Sravya-1818">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://drive.google.com/drive/folders/1bH-3L784b-ilKOLMs62UhZ50Z42PtMJR?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
-</div>
+</td>
+
+</tr>
+</table>
+
+---
 
 ---
 
