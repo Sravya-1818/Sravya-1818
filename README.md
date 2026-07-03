@@ -2,7 +2,7 @@
 <div align="center">
 
 
-<img src="assets/profile.jpeg" width="180" alt="Sravya Lakshmi Tulasi"/>
+<img src="assets/profile1.jpeg" width="180" alt="Sravya Lakshmi Tulasi"/>
 
 # Hi, I'm **Sravya Lakshmi Tulasi** 👋
 
