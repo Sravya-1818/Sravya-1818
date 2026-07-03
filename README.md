@@ -16,7 +16,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00B4FF&width=520&lines=Aspiring+VLSI+Engineer;Machine+Learning+%26+Edge+AI+Enthusiast;RTL+Design+%7C+FPGA+Development;Researcher+%7C+Innovation+Driven"/>
 
-<br><br>
 
 <a href="https://www.linkedin.com/in/sravya-valluri">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
