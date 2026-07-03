@@ -1,33 +1,27 @@
+
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1F4D,100:00B4FF&text=Sravya%20Lakshmi%20Tulasi&fontColor=ffffff&fontSize=46&animation=fadeIn"/>
 
-<br><br>
+<img src="assets/profile.png" width="180" alt="Sravya Lakshmi Tulasi"/>
 
-<img src="assets/profile.png" width="180px" alt="Profile Picture">
-
-# Hi 👋 I'm Sravya Lakshmi Tulasi
+# Hi, I'm **Sravya Lakshmi Tulasi** 👋
 
 ### Electronics & Communication Engineering Student
 
-### VLSI • RTL Design • FPGA • Edge AI • Embedded Systems
+### **VLSI • RTL Design • FPGA • Machine Learning • Edge AI**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=900&lines=Aspiring+VLSI+Engineer;RTL+Design+Enthusiast;FPGA+Developer;Embedded+Systems+Explorer;Edge+AI+Researcher" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00B4FF&center=true&vCenter=true&width=850&lines=Aspiring+VLSI+Engineer;Machine+Learning+%26+Edge+AI+Enthusiast;RTL+Design+%7C+FPGA+Development;Researcher+%7C+Innovation+Driven"/>
 
 <a href="https://www.linkedin.com/in/sravya-valluri">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:sravyalakshmitulasivalluri@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Sravya-1818">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://drive.google.com/drive/folders/1bH-3L784b-ilKOLMs62UhZ50Z42PtMJR?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
@@ -36,614 +30,163 @@
 
 ---
 
-# 👩‍💻 About Me
+# 👩‍💻 Engineering Profile
 
-<img align="right" width="320" src="assets/profile.png">
+I am an **Electronics & Communication Engineering** undergraduate at **Shri Vishnu Engineering College for Women** with a **CGPA of 9.58**.
 
-I am an **Electronics & Communication Engineering** undergraduate at **Shri Vishnu Engineering College for Women** with a current **CGPA of 9.58**.
-
-My primary interests lie in **VLSI Design**, **RTL Development**, **FPGA Computing**, **Embedded Systems**, and **Edge AI**.
-
-I enjoy designing digital hardware, building intelligent embedded applications, and applying machine learning to solve real-world engineering problems. My experience spans semiconductor technologies, FPGA-based acceleration, computer vision, embedded platforms, and intelligent sensing systems.
-
-I strongly believe that engineering is best learned by building practical solutions, conducting research, and continuously exploring emerging technologies.
-
-<br clear="right"/>
+My interests lie at the intersection of **VLSI Design, RTL Development, FPGA Computing, Machine Learning, Edge AI and Semiconductor Technologies**. I enjoy building intelligent hardware–AI solutions through research, practical implementation and continuous learning.
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Areas of Interest
 
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-### ⚡ RTL Design
-
-Designing digital hardware using Verilog HDL while exploring RTL-to-GDSII design flow.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔬 Semiconductor Engineering
-
-Learning modern VLSI methodologies including Static Timing Analysis and Physical Design.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖 Edge AI
-
-Building intelligent FPGA and embedded solutions for real-world applications.
-
-</td>
-
-</tr>
-
-</table>
+- ⚡ RTL Design
+- 🖥 FPGA Development
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🔬 Semiconductor Technologies
+- 📷 Computer Vision
+- 🌐 Edge AI
+- 📡 Digital System Design
 
 ---
 
-# 🌱 Currently Working On
+# 🛠 Technical Skills
 
-- RTL Design & Verification
-- Static Timing Analysis (STA)
-- Physical Design
-- FPGA-Based Edge AI Applications
-- Semiconductor Design Flow
-- Advanced Digital System Design
-
----
-
-# 🎓 Education
-
-<table>
-
-<tr>
-
-<td>
-
-🏫 **Shri Vishnu Engineering College for Women**
-
-**Bachelor of Technology**
-
-Electronics & Communication Engineering
-
-📈 CGPA: **9.58**
-
-2023 – 2027
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-
----
-
-# 🛠 Technical Expertise
-
-<div align="center">
-
-### Programming Languages
+### Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp"/>
+<img src="https://img.shields.io/badge/Verilog_HDL-purple?style=for-the-badge"/>
 </p>
 
-### Hardware Description & Design
+### AI & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- YOLOv8
+- CNN
+- MobileNetV2
+- Random Forest
+- XGBoost
+- ONNX
+
+### Semiconductor & FPGA
+
+- RTL Design
+- FSM Design
+- Digital Logic Design
+- Static Timing Analysis
+- RTL to GDSII Flow
+- Physical Design (Learning)
+- PYNQ-Z2
+- ZCU104
+
+### Tools
 
 <p>
-
-<img src="https://img.shields.io/badge/Verilog_HDL-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RTL_Design-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FSM_Design-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Digital_Logic-3F51B5?style=for-the-badge"/>
-
-</p>
-
-### FPGA & Embedded Platforms
-
-<p>
-
-<img src="https://img.shields.io/badge/PYNQ--Z2-F4B400?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ZCU104-1976D2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Quectel_EC200U-FF6F00?style=for-the-badge"/>
-
-</p>
-
-### EDA & Development Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Xilinx_Vivado-C62828?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cadence_Virtuoso-1565C0?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Vivado-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cadence_Virtuoso-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cadence_NC_Launch-6A1B9A?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/GTKWave-455A64?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Verilator-0D47A1?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Verilator-darkblue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LabVIEW-yellow?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Multisim-blue?style=for-the-badge"/>
-
 </p>
-
-### Operating Systems
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux,windows"/>
-
-</p>
-
-</div>
 
 ---
 
-# 💼 Professional Experience
+# 💼 Experience
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🏢 NIELIT eChipHub
-
-### Technical Intern
-
-**June 2026 – Present**
-
-Working on modern VLSI design methodologies including
+### 🏢 NIELIT eChipHub Technical Internship (Jun 2026 – Present)
 
 - RTL Design
 - IP Integration
-- RTL to GDSII Flow
+- RTL-to-GDSII Flow
 - Static Timing Analysis
 - Physical Design
-- Industry Standard EDA Tools
 
-</td>
+### ⚡ FPGA & Edge AI Deployment Intern — Edgeyentra AI Tech Solutions
 
-<td width="50%">
-
-## ⚡ Edgeyentra AI Tech Solutions
-
-### FPGA & Edge AI Deployment Intern
-
-**Aug 2025 – Feb 2026**
-
-Worked on
-
-- FPGA Computing
-- Edge AI
-- Raspberry Pi
-- Jetson Nano
-- PYNQ-Z2
-- Vehicle Telemetry
-- Sensor Interfacing
-
-</td>
-
-</tr>
-
-</table>
+Worked on FPGA acceleration, Edge AI applications, Raspberry Pi, Jetson Nano, PYNQ-Z2 and intelligent vehicle monitoring.
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-<img src="assets/apsrtc.png"/>
-
-### 🚌 APSRTC AI Route Optimization
-
-Machine Learning framework using
-
-✔ Random Forest
-
-✔ XGBoost
-
-✔ Passenger Demand Forecasting
-
-✔ Fleet Optimization
-
-<a href="https://github.com/Sravya-1818/APSRTC">
-View Project →
-</a>
-
-</td>
-
-<td width="50%">
-
-<img src="assets/facedetection.png"/>
-
-### 📷 FPGA Face Detection
-
-Real-time face detection using
-
-✔ PYNQ-Z2
-
-✔ USB Camera
-
-✔ FPGA Acceleration
-
-✔ Edge AI
-
-<a href="https://github.com/Sravya-1818/Hardware-Accelerated-Object-Detection-PYNQ">
-View Project →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<img src="assets/wafer.png"/>
-
-### 🧪 Wafer Defect Classification
-
-MobileNetV2
-
-ONNX
-
-Edge AI
-
-93.29% Accuracy
-
-Semiconductor Inspection
-
-</td>
-
-<td width="50%">
-
-<img src="assets/floodwatch.png"/>
-
-### 🌊 FloodWatch AI
-
-YOLOv8
-
-CNN
-
-Computer Vision
-
-IoT
-
-94.2% Accuracy
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<img src="assets/fleet.png"/>
-
-### 🚗 Fleet Monitoring Dashboard
-
-Embedded Vehicle Telemetry
-
-OBD
-
-GPS
-
-GSM
-
-Real-Time Monitoring
-
-</td>
-
-<td width="50%">
-
-<img src="assets/braille.png"/>
-
-### ♿ Braille Learning Tool
-
-Sensor-based tactile learning system
-
-Embedded Design
-
-Assistive Technology
-
-Interactive Learning
-
-</td>
-
-</tr>
-
-</table>
+| Project | Highlights |
+|---------|------------|
+| 🚌 APSRTC AI Route Optimization | Random Forest, XGBoost, Demand Forecasting |
+| 📷 FPGA Live Face Detection | PYNQ-Z2, USB Camera, FPGA Acceleration |
+| 🧪 Wafer Defect Classification | MobileNetV2, ONNX, 93.29% Accuracy |
+| 🌊 FloodWatch AI | YOLOv8, CNN, IoT, 94.2% Accuracy |
+| 🚗 Intelligent Fleet Monitoring | OBD, GSM, GPS, Telemetry |
+| ♿ Braille Learning Tool | Sensor-based Assistive Learning |
 
 ---
 
-# 📌 What I'm Passionate About
+# 📑 Research
 
-<div align="center">
-
-| 💙 Semiconductor Design | ⚡ FPGA Computing | 🤖 Edge AI |
-|-------------------------|------------------|------------|
-| RTL Design | Embedded Systems | Computer Vision |
-
-| 📡 IoT | 🔬 Research | 🚀 Innovation |
-|--------|------------|---------------|
-| Smart Systems | Machine Learning | Real-world Engineering |
-
-</div>
-
----
-
-
-
-<div align="center">
-
-### ⚙️ "Building Hardware. Accelerating Intelligence."
-
-</div>
----
-
-# 🔬 Research & Publications
-
-<div align="center">
-
-*"Research transforms ideas into innovation."*
-
-</div>
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 📡 Intelligent Beamforming using Machine Learning for 6G IoT Networks
-
-**Conference:** ICICS 2026
-
-Machine Learning based intelligent beamforming for next-generation wireless communication using feature selection techniques including:
-
-- ANOVA
-- Chi-Square
-- ReliefF
-
-📖 Focus Areas
-
-- 6G Networks
-- Machine Learning
-- Wireless Communication
-- Intelligent Beamforming
-
-</td>
-
-<td width="50%">
-
-## 📶 Geometrically Modified Multiband Microstrip Patch Antenna
-
-**Conference:** WAMS 2026
-
-Research on the design and analysis of a geometrically modified multiband microstrip patch antenna for
-
-- 5G Sub-6 GHz
-- Upper Band Communication
-
-Focus
-
-- Antenna Design
-- HF Communication
-- Wireless Systems
-
-</td>
-
-</tr>
-
-</table>
+- **Intelligent Beamforming using Machine Learning for 6G IoT Networks** — ICICS 2026
+- **Geometrically Modified Multiband Microstrip Patch Antenna for 5G Communication Systems** — WAMS 2026
 
 ---
 
 # 📜 Patent Publications
 
-<div align="center">
+🇮🇳 **4 Indian Patent Publications (2026)**
 
-### 🇮🇳 4 Indian Patent Publications (2026)
-
-</div>
-
-| Innovation Area | Status |
-|-----------------|--------|
-| 🚗 Smart Mobility | Published |
-| 🌊 Urban Flood Monitoring | Published |
-| 📶 Wi-Fi Sensing | Published |
-| 🐟 Aquaculture Automation | Published |
+- Edge AI
+- Smart Mobility
+- Urban Flood Monitoring
+- Wi-Fi Sensing
+- Aquaculture Automation
 
 ---
 
 # 🏆 Achievements
 
-<table>
-
-<tr>
-
-<td>
-
-🥇 Amazon ML Summer School 2026
-
-</td>
-
-<td>
-
-🏅 GATE 2026 Qualified
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🏆 IEEE YESIST12 Finalist
-
-</td>
-
-<td>
-
-🥈 ISTE Project Expo Runner-up
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🚀 RTIH AI Hackathon Finalist
-
-</td>
-
-<td>
-
-💡 Yukti Innovation Challenge Finalist
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🏅 MSME Hackathon 5.0 Finalist
-
-</td>
-
-<td>
-
-⭐ Institutional Academic Topper (3rd Place)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🏅 AICTE Productisation Fellowship Finalist
-
-</td>
-
-<td>
-
-🎖️ Viswakarma Awards Semi-Finalist
-
-</td>
-
-</tr>
-
-</table>
+- 🥇 Amazon ML Summer School 2026 – Selected
+- 🏅 GATE 2026 – Qualified
+- 🏆 IEEE YESIST12 2026 – Finalist
+- 🚀 RTIH AI Hackathon – Finalist
+- 💡 Yukti Innovation Challenge – Finalist
+- 🏅 MSME Hackathon 5.0 – Finalist
+- ⭐ Institutional Academic Topper (3rd Place)
+- 🥈 ISTE Project Expo – Runner-up
 
 ---
 
 # 📚 Certifications
 
-<div align="center">
-
-| Certification | Organization |
-|---------------|--------------|
-| VLSI Design | HCL Tech |
-| Samsung ISWDP Fellowship | Samsung |
-| System Design Through Verilog | NPTEL |
-| Digital System Design | NPTEL |
-| Introduction to Internet of Things | NPTEL |
-| MATLAB Certification | MathWorks |
-| Crash Course on Python | Google |
-| HackerRank Python (Basic) | HackerRank |
-| German A1 Certification | Goethe / A1 |
-
-</div>
+- VLSI Design – HCL Tech (Ongoing)
+- Samsung ISWDP Fellowship
+- NPTEL – System Design Through Verilog
+- NPTEL – Digital System Design
+- MATLAB – MathWorks
+- HackerRank Python (Basic)
+- Google Crash Course on Python
 
 ---
 
 # 👩‍💼 Leadership
 
-<table>
-
-<tr>
-
-<td>
-
-### IEEE Student Branch
-
-**Treasurer**
-
-</td>
-
-<td>
-
-### Institution Innovation Council
-
-**Innovation Ambassador**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### Sustainable Development Goals Club
-
-Student Coordinator
-
-</td>
-
-<td>
-
-### Assistive Technology Lab
-
-Member
-
-</td>
-
-</tr>
-
-</table>
+- Treasurer — IEEE Student Branch SVECW
+- Innovation Ambassador — Institution Innovation Council
+- Student Coordinator — SDG Club
+- Member — Assistive Technology Lab
 
 ---
 
+# 📊 GitHub Stats
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sravya-1818&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravya-1818&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -652,49 +195,25 @@ Member
 <div align="center">
 
 <a href="https://drive.google.com/drive/folders/1bH-3L784b-ilKOLMs62UhZ50Z42PtMJR?usp=sharing">
-
 <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-
 </a>
 
 </div>
 
 ---
 
-# 📫 Let's Connect
+# 📫 Connect With Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sravya-valluri">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="mailto:sravyalakshmitulasivalluri@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/Sravya-1818">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</div>
+- 💼 LinkedIn: https://www.linkedin.com/in/sravya-valluri
+- 📧 Email: sravyalakshmitulasivalluri@gmail.com
+- 🐙 GitHub: https://github.com/Sravya-1818
 
 ---
 
 <div align="center">
 
-# Thank You for Visiting!
+### **"Driven by Curiosity. Powered by Innovation. Focused on Semiconductor Intelligence."**
 
-### ⭐ *"Design. Build. Innovate. Repeat."*
-
-*"Turning ideas into intelligent hardware and impactful engineering solutions."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E3A8A&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B1F4D,100:00B4FF"/>
 
 </div>
