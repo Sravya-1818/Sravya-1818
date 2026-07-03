@@ -1,9 +1,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1F4D,100:00B4FF&text=Sravya%20Lakshmi%20Tulasi&fontColor=ffffff&fontSize=46&animation=fadeIn"/>
 
-<img src="assets/profile.png" width="180" alt="Sravya Lakshmi Tulasi"/>
+<img src="assets/profile.jpeg" width="180" alt="Sravya Lakshmi Tulasi"/>
 
 # Hi, I'm **Sravya Lakshmi Tulasi** 👋
 
@@ -43,7 +42,6 @@ My interests lie at the intersection of **VLSI Design, RTL Development, FPGA Com
 - ⚡ RTL Design
 - 🖥 FPGA Development
 - 🤖 Machine Learning
-- 🧠 Deep Learning
 - 🔬 Semiconductor Technologies
 - 📷 Computer Vision
 - 🌐 Edge AI
@@ -63,7 +61,6 @@ My interests lie at the intersection of **VLSI Design, RTL Development, FPGA Com
 ### AI & Machine Learning
 
 - Machine Learning
-- Deep Learning
 - Computer Vision
 - YOLOv8
 - CNN
@@ -136,11 +133,6 @@ Worked on FPGA acceleration, Edge AI applications, Raspberry Pi, Jetson Nano, PY
 
 🇮🇳 **4 Indian Patent Publications (2026)**
 
-- Edge AI
-- Smart Mobility
-- Urban Flood Monitoring
-- Wi-Fi Sensing
-- Aquaculture Automation
 
 ---
 
